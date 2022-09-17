@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wie-act/static/css/main.073c9b0a.css",
+    "main.js": "/wie-act/static/js/main.fb3b14b4.js",
+    "static/js/787.813950c5.chunk.js": "/wie-act/static/js/787.813950c5.chunk.js",
+    "static/media/logo.svg": "/wie-act/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wie-act/index.html",
+    "main.073c9b0a.css.map": "/wie-act/static/css/main.073c9b0a.css.map",
+    "main.fb3b14b4.js.map": "/wie-act/static/js/main.fb3b14b4.js.map",
+    "787.813950c5.chunk.js.map": "/wie-act/static/js/787.813950c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fb3b14b4.js"
+  ]
+}
